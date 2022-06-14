@@ -7,6 +7,8 @@ print("Your character's name is", name)
 print("Your character is", age, "years old")
 print("Strenght:", strengths)
 print("Weaknesses:", weaknesses)
+print("Test")
+
       
                    
                 
